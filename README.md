@@ -1,3 +1,3 @@
 # Approximate-Euler-Number
 
-Approximate Euler Number Calculator based on number that you entered.
+Approximate Euler Number Calculator based on number of terms that you entered.
