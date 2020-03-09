@@ -61,7 +61,6 @@ public class Main {
         }
         System.out.println("The number you entered is "+a);
         return a;
-
     }
 
  }
