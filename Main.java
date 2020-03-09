@@ -1,4 +1,4 @@
-// ## Approximate Eular Number Calculator ## \\
+// ## Approximate Euler Number Calculator ## \\
 
 package com.company;
 
